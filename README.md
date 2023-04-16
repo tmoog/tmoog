@@ -4,7 +4,7 @@ I'm currently learning coding skills to eventually break into the tech industry.
 
 🔭 I’m currently working on learning Python through a coding mentorship program through my workplace. This program includes:
 * Practice exercises
-* Weekly Readings & Lectures
+* Weekly readings & lectures
 * Weekly quizzes
 * A Final Exam
 
